@@ -1,12 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    15:44:08 10/06/2016 
-// Design Name: 
-// Module Name:    la_ment 
-// Project Name: 
+// Author: Shanaya Mehta, 201501055
 // Target Devices: 
 // Tool versions: 
 // Description: 
